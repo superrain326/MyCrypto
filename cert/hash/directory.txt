@@ -1,0 +1,4 @@
+[directory]
+MD5.py
+SHA512.py
+KECCAK.py
